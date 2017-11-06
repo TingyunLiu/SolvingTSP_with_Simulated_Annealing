@@ -1,0 +1,5 @@
+---------------------------------
+Command line argument instruction
+---------------------------------
+make
+./tsp [infile]
